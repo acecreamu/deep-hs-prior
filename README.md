@@ -32,7 +32,8 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
 
 ### Run the code
 
-- Follow one of the proposed notebook files to get the results.
+- Follow one of the proposed notebook files to get the results. <br>
+   &ast; 2D versions tend to demonstrate better accuracy.
 - Try to modify parameters. Have fun.
 
 
