@@ -8,7 +8,7 @@ The implementation is based on [original Deep Image Prior code by Dmitry Ulyanov
 
 The framework was modified to process hyperspectral data using 2D or 3D convolutions:
 
-![image preview](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig2.png)
+![image framework](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig2.png)
 
 ### Requirements
 - python = 3.6
@@ -35,7 +35,18 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
 - Follow one of the proposed notebook files to get the results.
 - Try to modify parameters. Have fun.
 
-</br>
 
+#### Some results
+Denoising:
+
+![image noise](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig3.png)
+
+Super-Resolution:
+
+![image sr](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig3.png)
+
+Find more in the paper...
+
+</br>
 
 #### Please, kindly cite the paper if you use the code!
