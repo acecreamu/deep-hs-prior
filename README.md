@@ -36,8 +36,8 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
    &ast; 2D versions tend to demonstrate better accuracy.
 - Try to modify parameters. Have fun.
 
+<br>
 
-</br>
 -------
 
 ### Some results
@@ -53,6 +53,7 @@ Inpainting:
 
 ![image_inpainting](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig4.png)
 
-</br>
+<br>
+
 -------
 #### Please, kindly cite the paper if you use the code!
