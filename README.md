@@ -38,7 +38,7 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
 
 
 </br>
-
+-------
 
 ### Some results
 Denoising:
@@ -54,5 +54,5 @@ Inpainting:
 ![image_inpainting](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig4.png)
 
 </br>
-
+-------
 #### Please, kindly cite the paper if you use the code!
