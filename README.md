@@ -48,7 +48,9 @@ Super-Resolution:
 
 ![image sr](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig5.png)
 
-Find more in the paper...
+Inpainting:
+
+![image_inpainting](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig4.png)
 
 </br>
 
