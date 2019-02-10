@@ -36,14 +36,17 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
 - Try to modify parameters. Have fun.
 
 
-#### Some results
+</br>
+
+
+### Some results
 Denoising:
 
 ![image noise](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig3.png)
 
 Super-Resolution:
 
-![image sr](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig3.png)
+![image sr](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig5.png)
 
 Find more in the paper...
 
