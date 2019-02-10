@@ -1,4 +1,4 @@
-# Deep Hyperspectral Prior: Single Image Denosing, Inpainting, Super-Resolution
+# Deep Hyperspectral Prior: Single Image Denoising, Inpainting, Super-Resolution
 ![image preview](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig1.png)
 
 Supplementary code to the paper [O Sidorov, JY Hardeberg. Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution](https://arxiv.org/abs/1902.00301) (Submitted to ICIP 2019).
