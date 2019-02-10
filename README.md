@@ -4,9 +4,9 @@
 Supplementary code to the paper [O Sidorov, JY Hardeberg. Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution](https://arxiv.org/abs/1902.00301) (Submitted to ICIP 2019).
 
 ## Get started
-The implementation is based on [original Deep Image Prior code by Dmitry Ulyanov](https://github.com/DmitryUlyanov/deep-image-prior)
+The implementation is based on [original Deep Image Prior code by Dmitry Ulyanov](https://github.com/DmitryUlyanov/deep-image-prior).
 
-The framework was modified to process hyperspectral data using 2D or 3D convolutions
+The framework was modified to process hyperspectral data using 2D or 3D convolutions:
 
 ![image preview](https://github.com/acecreamu/deep-hs-prior/blob/master/figs/fig2.png)
 
@@ -21,7 +21,7 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
 
 ### Prepare the data
 - Input and output hyperspectral data is contained in `*.mat` files. 
-- Specify path to the file and name of the variable to read.</br>
+- Specify a path to the file and name of the variable to read.</br>
    For example, if data is contained in variable `image`:
    ```
    file_name  = 'data/inpainting/inpainting192.mat'
@@ -35,7 +35,7 @@ The framework was modified to process hyperspectral data using 2D or 3D convolut
 - Follow one of the proposed notebook files to get the results.
 - Try to modify parameters. Have fun.
 
+</br>
 
 
-
-#### Please cite the paper if you find the code useful!
+#### Please, kindly cite the paper if you use the code!
